@@ -32,5 +32,5 @@ Computer vision
 LLM and RAG-based systems
 Industrial PhD and research opportunities in AI
 Let’s connect
-LinkedIn: linkedin.com/in/ayesha-samad
-Email: ayeshamunir.dev@gmail.com
+- LinkedIn: linkedin.com/in/ayesha-samad
+- Email: ayeshamunir.dev@gmail.com
