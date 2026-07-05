@@ -24,13 +24,7 @@ Frontend: React, Next.js, React Native, TypeScript, JavaScript, HTML, CSS, Mater
 Web / APIs: REST APIs, Firebase, WordPress, dashboards, PWA, microfrontends
 Tools: Git, GitLab, Azure DevOps, Jira, Trello, Jenkins, VS Code, Agile/Scrum
 
-I’m interested in
-AI engineering roles
-, Applied AI research
-, Healthcare AI
-, Computer vision
-, LLM and RAG-based systems
-, Industrial PhD and research opportunities in AI
+I’m interested in AI engineering roles, Applied AI research, Healthcare AI, Computer vision, LLM and RAG-based systems, Industrial PhD and research opportunities in AI
 Let’s connect
 - LinkedIn: linkedin.com/in/ayesha-samad
 - Email: ayeshamunir.dev@gmail.com
