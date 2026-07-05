@@ -10,8 +10,7 @@ What I work on
 - Web and mobile applications using React, Next.js, React Native, TypeScript, and JavaScript
 - API integration, dashboards, and user-friendly software systems
   
-Current focus
-I am currently working as an AI Software Engineer / Research Collaborator at IIS Galicia Sur, where I support healthcare AI tools, clinical trial AI systems, information retrieval, and health data workflows. My Master’s thesis focuses on image homogenization and domain adaptation to improve the generalizability of machine learning models in fetal medicine.
+Current focus: I am currently working as an AI Software Engineer / Research Collaborator at IIS Galicia Sur, where I support healthcare AI tools, clinical trial AI systems, information retrieval, and health data workflows. My Master’s thesis focuses on image homogenization and domain adaptation to improve the generalizability of machine learning models in fetal medicine.
 
 Tech stack
 - AI / Data: Python, LLMs, RAG, vector databases, Ollama, OpenRouter APIs, Gemini, computer vision, healthcare AI
